@@ -16,7 +16,7 @@
 <!-- 🔮 SOCIAL LINKS WITH HOVER ANIMATION -->
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-00D9FF?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://souaibpotfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-00D9FF?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://ansarisouaib.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ansarisouaib/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/MADxGUNMAN)
 [![Twitter](https://img.shields.io/badge/Twitter-@MADxGUNMAN-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/MADxGUNMAN)
