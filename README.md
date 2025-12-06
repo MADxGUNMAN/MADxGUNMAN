@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1788AE&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ansari+Souaib;Full+Stack+MERN+Developer;Building+Creative+Web+Experiences;Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1788AE&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ansari+Souaib;Full+Stack+MERN+Developer;21%2B+Projects+Completed;Building+Creative+Web+Experiences;Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social Badges -->
@@ -33,21 +33,22 @@ const souaib = {
     pronouns: "He" | "Him",
     location: "India 🇮🇳",
     role: "Full Stack Developer",
-    code: ["JavaScript", "HTML", "CSS", "Node.js"],
-    askMeAbout: ["Web Dev", "MERN Stack", "UI/UX", "AI Chatbots"],
+    code: ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js"],
+    askMeAbout: ["Web Dev", "MERN Stack", "UI/UX", "AI Chatbots", "3D Web Apps"],
     technologies: {
         frontEnd: {
-            js: ["React", "Redux"],
-            css: ["Bootstrap", "Tailwind", "SASS"]
+            js: ["React", "Next.js", "Redux", "Zustand", "Three.js"],
+            css: ["Tailwind CSS", "Bootstrap", "SASS", "Framer Motion"]
         },
         backEnd: {
-            js: ["Node.js", "Express.js"]
+            js: ["Node.js", "Express.js", "Socket.io"]
         },
-        databases: ["MongoDB", "Mongoose"],
-        cloud: ["AWS", "Cloudinary", "Firebase"],
-        tools: ["Git", "GitHub", "Figma", "Adobe XD"]
+        databases: ["MongoDB", "PostgreSQL", "Supabase", "Firebase"],
+        cloud: ["AWS", "Cloudinary", "Razorpay", "Nodemailer"],
+        tools: ["Git", "GitHub", "Figma", "Vite", "Postman"]
     },
-    currentFocus: "Building AI-powered web applications",
+    currentFocus: "Building AI-powered full-stack applications",
+    projectsCompleted: 21,
     funFact: "I turn coffee ☕ into code 💻"
 };
 ```
@@ -59,106 +60,231 @@ const souaib = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack"/><br/>
-  <strong>MERN Stack</strong>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts" alt="Stack"/><br/>
+  <strong>Core Stack</strong>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,bootstrap" alt="Frontend"/>
   <br/><em>Frontend Technologies</em>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,aws" alt="Backend"/>
-  <br/><em>Backend & Cloud</em>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,postgres,mongodb" alt="Backend"/>
+  <br/><em>Backend & Databases</em>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" alt="Tools"/>
-  <br/><em>Tools & Design</em>
+  <img src="https://skillicons.dev/icons?i=threejs,vite,git,github,figma,vscode" alt="Tools"/>
+  <br/><em>Tools & 3D</em>
 </p>
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects (21 Total)
+
+### 💼 Full-Stack Applications
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 My Portfolio</h3>
+      <h3 align="center">🛒 RAJ ACCESSORIES</h3>
+      <p align="center">
+        <a href="https://raj-accessories-frontend.onrender.com/" target="_blank">
+          <img src="https://res.cloudinary.com/dbtyqtzi9/image/upload/v1764591781/portfolio-projects/pcz7wueynxfqvruakhjk.png" width="100%" alt="RAJ Accessories"/>
+        </a>
+        <br/><br/>
+        <a href="https://raj-accessories-frontend.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-ff8c32?style=for-the-badge&logo=render"/></a>
+      </p>
+      <p><strong>Tech:</strong> React, Node.js, MongoDB, Razorpay, Firebase, Cloudinary</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🍕 FOODIE</h3>
+      <p align="center">
+        <a href="https://foodie-2muy.onrender.com/" target="_blank">
+          <img src="https://res.cloudinary.com/dbtyqtzi9/image/upload/v1764592354/portfolio-projects/mf9tug3ym8pnwoannvoz.png" width="100%" alt="Foodie"/>
+        </a>
+        <br/><br/>
+        <a href="https://foodie-2muy.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-ff6347?style=for-the-badge&logo=render"/></a>
+      </p>
+      <p><strong>Tech:</strong> React, Redux, Node.js, MongoDB, Socket.io, Razorpay</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💬 CHITCHAT</h3>
+      <p align="center">
+        <a href="https://chitchat-frontend-mxw3.onrender.com/" target="_blank">
+          <img src="https://res.cloudinary.com/dbtyqtzi9/image/upload/v1764592826/portfolio-projects/d61mraeocusedegtg3hx.png" width="100%" alt="ChitChat"/>
+        </a>
+        <br/><br/>
+        <a href="https://chitchat-frontend-mxw3.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-13e2c9?style=for-the-badge&logo=render"/></a>
+      </p>
+      <p><strong>Tech:</strong> React, Zustand, Node.js, Socket.io, JWT, Cloudinary</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏨 HOTEL FLORA</h3>
+      <p align="center">
+        <a href="https://flora-develop-by-souaib.netlify.app/" target="_blank">
+          <img src="https://res.cloudinary.com/dbtyqtzi9/image/upload/v1764589856/portfolio-projects/xgjofvwkuxol2uicqbft.png" width="100%" alt="Hotel Flora"/>
+        </a>
+        <br/><br/>
+        <a href="https://flora-develop-by-souaib.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-e5c76b?style=for-the-badge&logo=netlify"/></a>
+      </p>
+      <p><strong>Tech:</strong> Next.js, Supabase, PostgreSQL, Razorpay, Framer Motion</p>
+    </td>
+  </tr>
+</table>
+
+### 🎨 Modern Landing Pages
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💪 FITNESS FIRST GYM</h3>
+      <p align="center">
+        <a href="https://fitnessfirst-developbysouaib.netlify.app/" target="_blank">
+          <img src="https://res.cloudinary.com/dbtyqtzi9/image/upload/v1764588910/portfolio-projects/wcw0xiejlx4qr0akldlf.png" width="100%" alt="Fitness First"/>
+        </a>
+        <br/><br/>
+        <a href="https://fitnessfirst-developbysouaib.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-16e689?style=for-the-badge&logo=netlify"/></a>
+      </p>
+      <p><strong>Tech:</strong> React, TypeScript, Three.js, Tailwind CSS, Framer Motion</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">👔 AUTOGRAPH-i</h3>
+      <p align="center">
+        <a href="https://autograph-developbysouaib.netlify.app/" target="_blank">
+          <img src="https://res.cloudinary.com/dbtyqtzi9/image/upload/v1764590395/portfolio-projects/epols9bq2qy7elleohos.png" width="100%" alt="Autograph-i"/>
+        </a>
+        <br/><br/>
+        <a href="https://autograph-developbysouaib.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-8a2be2?style=for-the-badge&logo=netlify"/></a>
+      </p>
+      <p><strong>Tech:</strong> React, Three.js, React Three Fiber, GSAP, Lenis</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛍️ MHK MART</h3>
+      <p align="center">
+        <a href="https://mhk-developed-by-souaib.netlify.app/" target="_blank">
+          <img src="https://res.cloudinary.com/dbtyqtzi9/image/upload/v1764590666/portfolio-projects/tmwmzpwk2dnypui2y93b.png" width="100%" alt="MHK Mart"/>
+        </a>
+        <br/><br/>
+        <a href="https://mhk-developed-by-souaib.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-2ce0d4?style=for-the-badge&logo=netlify"/></a>
+      </p>
+      <p><strong>Tech:</strong> React, TypeScript, Three.js, Tailwind CSS, Framer Motion</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 MY PORTFOLIO</h3>
       <p align="center">
         <a href="https://souaibpotfolio.netlify.app/" target="_blank">
           <img src="https://github.com/MADxGUNMAN/PortFolio-V4/raw/master/images/1resume.png" width="100%" alt="Portfolio"/>
         </a>
         <br/><br/>
-        <a href="https://souaibpotfolio.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-1788ae?style=for-the-badge&logo=netlify"/></a>
+        <a href="https://souaibpotfolio.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-b01717?style=for-the-badge&logo=netlify"/></a>
       </p>
-      <p><strong>Tech:</strong> HTML, CSS, JS, Swiper.js, Web3Forms, Mapbox</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🍔 The Hungry Gunman</h3>
-      <p align="center">
-        <a href="https://madxgunman.github.io/Resturant-website/" target="_blank">
-          <img src="https://github.com/MADxGUNMAN/PortFolio-V4/raw/master/images/2restaurant.png" width="100%" alt="Restaurant"/>
-        </a>
-        <br/><br/>
-        <a href="https://madxgunman.github.io/Resturant-website/"><img src="https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=github"/></a>
-      </p>
-      <p><strong>Tech:</strong> Node.js, HTML, CSS, JS, 3D Menu, Figma</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript, Firebase, Gemini AI</p>
     </td>
   </tr>
+</table>
+
+### 🤖 AI-Powered Applications
+
+<table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 STOM V4 - AI ChatBot</h3>
+      <h3 align="center">📰 NOVA NEWS</h3>
+      <p align="center">
+        <a href="https://novanews-9c8t.onrender.com" target="_blank">
+          <img src="https://res.cloudinary.com/dbtyqtzi9/image/upload/v1764593324/portfolio-projects/ikrgalji14byvpiobxcr.png" width="100%" alt="Nova News"/>
+        </a>
+        <br/><br/>
+        <a href="https://novanews-9c8t.onrender.com"><img src="https://img.shields.io/badge/Live-Demo-e0ff47?style=for-the-badge&logo=render"/></a>
+      </p>
+      <p><strong>Tech:</strong> React, TypeScript, Google Gemini API, Framer Motion</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💜 STOM V4</h3>
       <p align="center">
         <a href="https://souaibgeminiv4.netlify.app/" target="_blank">
           <img src="https://github.com/MADxGUNMAN/PortFolio-V4/raw/master/images/10Stomv4.png" width="100%" alt="STOM V4"/>
         </a>
         <br/><br/>
-        <a href="https://souaibgeminiv4.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-9c27b0?style=for-the-badge&logo=netlify"/></a>
+        <a href="https://souaibgeminiv4.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-c65bff?style=for-the-badge&logo=netlify"/></a>
       </p>
-      <p><strong>Tech:</strong> HTML, CSS, JS, Gemini API, Node.js</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript, Gemini Pro API</p>
     </td>
+  </tr>
+</table>
+
+### 🎮 Games & Interactive
+
+<table>
+  <tr>
     <td width="50%">
-      <h3 align="center">🏨 Gunman's Heaven</h3>
+      <h3 align="center">� GUNMAN RUNNER</h3>
       <p align="center">
-        <a href="https://madxgunman.github.io/hotel-booking/" target="_blank">
-          <img src="https://github.com/MADxGUNMAN/PortFolio-V4/raw/master/images/5hotel.png" width="100%" alt="Hotel Booking"/>
+        <a href="https://gunman-runner.netlify.app/" target="_blank">
+          <img src="https://res.cloudinary.com/dbtyqtzi9/image/upload/v1764675748/portfolio-projects/i32cpmo2hxbcy16ccdon.png" width="100%" alt="Gunman Runner"/>
         </a>
         <br/><br/>
-        <a href="https://madxgunman.github.io/hotel-booking/"><img src="https://img.shields.io/badge/Live-Demo-4caf50?style=for-the-badge&logo=github"/></a>
+        <a href="https://gunman-runner.netlify.app/"><img src="https://img.shields.io/badge/Play-Now-b07817?style=for-the-badge&logo=netlify"/></a>
       </p>
-      <p><strong>Tech:</strong> HTML, CSS, JS, Bootstrap, Figma, Node.js</p>
+      <p><strong>Tech:</strong> React, TypeScript, Three.js, React Three Fiber, Zustand</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏏 CRICKETER</h3>
+      <p align="center">
+        <a href="https://cricketer-vehp.onrender.com/" target="_blank">
+          <img src="https://res.cloudinary.com/dbtyqtzi9/image/upload/v1764593726/portfolio-projects/ncd3m8irpewp9xgkpwrj.png" width="100%" alt="Cricketer"/>
+        </a>
+        <br/><br/>
+        <a href="https://cricketer-vehp.onrender.com/"><img src="https://img.shields.io/badge/Play-Now-7cff4d?style=for-the-badge&logo=render"/></a>
+      </p>
+      <p><strong>Tech:</strong> React, TypeScript, HTML5 Canvas, Google Gemini API</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎮 Shadow Run Game</h3>
+      <h3 align="center">� SHADOW RUN</h3>
       <p align="center">
         <a href="https://madxgunman.github.io/Shadow-run-game/" target="_blank">
           <img src="https://github.com/MADxGUNMAN/PortFolio-V4/raw/master/images/11ShadowRun.png" width="100%" alt="Shadow Run"/>
         </a>
         <br/><br/>
-        <a href="https://madxgunman.github.io/Shadow-run-game/"><img src="https://img.shields.io/badge/Play-Now-333?style=for-the-badge&logo=github"/></a>
+        <a href="https://madxgunman.github.io/Shadow-run-game/"><img src="https://img.shields.io/badge/Play-Now-92ff17?style=for-the-badge&logo=github"/></a>
       </p>
       <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
     </td>
     <td width="50%">
-      <h3 align="center">🌤️ Weather Today</h3>
+      <h3 align="center">🐍 SNAKE GAME</h3>
       <p align="center">
-        <a href="https://madxgunman.github.io/SPU_WEATHER_PROJECT/" target="_blank">
-          <img src="https://github.com/MADxGUNMAN/PortFolio-V4/raw/master/images/6weather.png" width="100%" alt="Weather App"/>
+        <a href="https://snake-game-souaib.netlify.app/" target="_blank">
+          <img src="https://github.com/MADxGUNMAN/PortFolio-V4/raw/master/images/12SnakeGame.png" width="100%" alt="Snake Game"/>
         </a>
         <br/><br/>
-        <a href="https://madxgunman.github.io/SPU_WEATHER_PROJECT/"><img src="https://img.shields.io/badge/Live-Demo-03a9f4?style=for-the-badge&logo=github"/></a>
+        <a href="https://snake-game-souaib.netlify.app/"><img src="https://img.shields.io/badge/Play-Now-1788ae?style=for-the-badge&logo=netlify"/></a>
       </p>
-      <p><strong>Tech:</strong> HTML, CSS, JS, Node.js, REST API</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
     </td>
   </tr>
 </table>
 
+### 📚 More Projects
+
+| # | Project | Description | Tech Stack | Demo |
+|---|---------|-------------|------------|------|
+| 12 | **The Hungry Gunman** | Restaurant with 3D Menu | Node.js, HTML, CSS, JS | [🔗](https://madxgunman.github.io/Resturant-website/) |
+| 13 | **Gun Bot** | Voice-activated AI Assistant | HTML, CSS, JavaScript | [🔗](https://gunbot-v3.netlify.app/) |
+| 14 | **STORM** | Gemini API ChatBot | HTML, CSS, JS, Gemini API | [🔗](https://madxgunman.github.io/CHATBOT-STOM-V2/) |
+| 15 | **Gunman's Heaven** | Hotel Booking Website | HTML, CSS, Bootstrap, JS | [🔗](https://madxgunman.github.io/hotel-booking/) |
+| 16 | **WEB DEV** | E-learning Platform | HTML, CSS, JS, Web3Forms | [🔗](https://souaibwebdev.netlify.app/) |
+| 20 | **Weather Today** | Weather Forecasting App | HTML, CSS, JS, REST API | [🔗](https://madxgunman.github.io/SPU_WEATHER_PROJECT/) |
+| 21 | **Stick Hero** | Precision Web Game | HTML, CSS, JavaScript | [🔗](https://madxgunman.github.io/Stick-hero-game/) |
+
 <p align="center">
-  <a href="https://souaibpotfolio.netlify.app/"><img src="https://img.shields.io/badge/🚀_View_All_11_Projects-1788ae?style=for-the-badge" alt="View All Projects"/></a>
+  <a href="https://souaibpotfolio.netlify.app/"><img src="https://img.shields.io/badge/🚀_View_All_21_Projects-1788ae?style=for-the-badge" alt="View All Projects"/></a>
 </p>
 
 ---
